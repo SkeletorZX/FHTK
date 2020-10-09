@@ -118,7 +118,6 @@ def mainmen():
 	print("1: XSS")
 	print("2: SQL")
 	print("3: DOS")
-	print("4: Scam site scan")
 	print(" ")
 	try:
 		v = input("FH>> ")
