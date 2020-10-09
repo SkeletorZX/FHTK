@@ -2,7 +2,7 @@
 FratHaws Tool kit --
 Vulnerability analysis
 DoS
-soon: SSH bruteforce ftp/emails
+ADDITIONAL TOOLS SOON
 
 # Download
 git clone https://github.com/SkeletorZX/FHTK
